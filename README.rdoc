@@ -1,0 +1,5 @@
+= ObjectServices
+
+This project rocks and uses MIT-LICENSE.
+
+ObjectServices is a workspace for developing service objects for web applications.  It's currently bundled as a rails plugin.

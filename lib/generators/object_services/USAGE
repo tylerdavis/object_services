@@ -1,0 +1,9 @@
+Description:
+    Create a service and it's associated test class.
+
+Example:
+    rails generate service Thing
+
+    This will create:
+        app/services/thing_service.rb
+        test/services/thing_service_test.rb
